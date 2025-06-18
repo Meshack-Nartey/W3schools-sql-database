@@ -1,3 +1,5 @@
+
+--W3SCHOOLS
 CREATE TABLE categories (
   CategoryID int NOT NULL,
   CategoryName varchar(255) DEFAULT NULL,
